@@ -69,4 +69,4 @@ FOUNDATION_EXPORT  NSString * _Nonnull  const MMImageThemeName;
 @end
 ```
 ##image
-![image](https://github.com/lovemo/MMTheme/edit/raw/master/ScreenShot.png)
+![image](https://github.com/lovemo/MMTheme/blob/master/ScreenShot.png)
