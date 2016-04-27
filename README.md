@@ -40,8 +40,8 @@ FOUNDATION_EXPORT  NSString * _Nonnull  const MMImageThemeName;
 /**
  *  配置主题
  *
- *  @param view                 需配置的view，检测是否有子控件，如果有，遍历设置其所有控件主题，没有则设置其本身。
- *  @param themes            配置主题字典
+ *  @param view             需配置的view，检测是否有子控件，如果有，遍历设置其所有控件主题，没有则设置其本身。
+ *  @param themes           配置主题字典
  *  @param completion       设置完成
  */
 - (void)themeConfig:(nonnull __kindof UIView *)view themes:(nullable NSDictionary<NSString *, id> *)themes completion:(nullable void (^)())completion;
@@ -69,4 +69,4 @@ FOUNDATION_EXPORT  NSString * _Nonnull  const MMImageThemeName;
 @end
 ```
 ##image
-![image](https://github.com/lovemo/MMTheme/edit/master/ScreenShot.png)
+![image](https://github.com/lovemo/MMTheme/edit/raw/master/ScreenShot.png)
